@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage": "https://aliz001-1.github.io/smartlearn-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
