@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d253b163.css",
-    "main.js": "/static/js/main.18b1f3d1.js",
-    "index.html": "/index.html",
-    "main.d253b163.css.map": "/static/css/main.d253b163.css.map",
-    "main.18b1f3d1.js.map": "/static/js/main.18b1f3d1.js.map"
+    "main.css": "/smartlearn-react/static/css/main.d253b163.css",
+    "main.js": "/smartlearn-react/static/js/main.18b1f3d1.js",
+    "index.html": "/smartlearn-react/index.html",
+    "main.d253b163.css.map": "/smartlearn-react/static/css/main.d253b163.css.map",
+    "main.18b1f3d1.js.map": "/smartlearn-react/static/js/main.18b1f3d1.js.map"
   },
   "entrypoints": [
     "static/css/main.d253b163.css",
